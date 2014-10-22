@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Samba share
+Name[es]=Comparticiones samba
 GenericName=Samba share
+GenericName[es]=Comparticiones samba
 Comment=Create samba shares
+Comment[es]=Crear comparticiones samba
 Exec=sambashare
 Icon=folder-remote
 Terminal=False
